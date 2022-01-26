@@ -1,0 +1,423 @@
+{
+    "premierLeague": [{
+        "season": "2021-22",
+        "id": "101",
+        "teamName": "Manchester United F.C.",
+        "country": "England",
+        "logoImg": "https://e7.pngegg.com/pngimages/997/289/png-clipart-manchester-united-logo-food-text.png",
+        "description": "Manchester United is one of the most prestigious football clubs and has always maintained a distinguished tradition, a record of consistent success, and a great history. They are together with Liverpool, England's most successful football clubs ever. The Red Devils have more national titles than Liverpool, but the rival has collected more titles in international tournaments.",
+        "foundedYear": "1878",
+        "nickname": "The Red Devils",
+        "currentManager": "Ralf Rangnick",
+        "tiltes": [{
+            "leagueTitles": "20",
+            "faCups": "12",
+            "leagueCups": "5",
+            "uefaChampionLeague": "3",
+            "uefaEuropaLeague": "1",
+            "uefaCupWinnersCup": "1",
+            "uefaSuperCup": "1",
+            "internationalCup": "1",
+            "fifaClubWorldCup": "1"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "102",
+        "teamName": "Liverpool F.C.",
+        "country": "England",
+        "logoImg": "https://e7.pngegg.com/pngimages/346/519/png-clipart-liverpool-football-club-logo-liverpool-f-c-reserves-and-academy-anfield-english-football-league-uefa-champions-league-liverpool-logo-food-text.png",
+        "description": "Since they were founded in 1892, the Liverpool Football Club name was synonymous with fame and glory. Internationally, Liverpool is the most successful British club of all time with plenty of European trophies on their record. They are one of the most popular football teams in the world, with over 200 supporter clubs in at least 50 different countries. And yet, their magnificent history will forever be plagued by two of the worst stadium disasters of all time: Heysel and Hillsborough.",
+        "foundedYear": "1892",
+        "nickname": "The Reds",
+        "currentManager": "Jurgen Klopp",
+        "tiltes": [{
+            "leagueTitles": "19",
+            "faCups": "7",
+            "leagueCups": "8",
+            "uefaChampionLeague": "6",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "3",
+            "uefaSuperCup": "4",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "1"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "103",
+        "teamName": "Arsenal F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",
+        "description": "As one of the most successful and beloved clubs in England, Arsenal Football Club was always a magnet for the public. Tradition-wise, their results speak for themselves; in addition to winning 28 major domestic trophies, Arsenal hold the records for longest unbeaten streak and longest run in top flight of English football.",
+        "foundedYear": "1886",
+        "nickname": "The Gunners",
+        "currentManager": "Mikel Arteta",
+        "tiltes": [{
+            "leagueTitles": "13",
+            "faCups": "14",
+            "leagueCups": "2",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "104",
+        "teamName": "Chelsea F.C.",
+        "country": "England",
+        "logoImg": "https://e7.pngegg.com/pngimages/227/742/png-clipart-chelsea-f-c-logo-premier-league-emblem-organization-premier-league-blue-emblem.png",
+        "description": "While Chelsea were a reasonably consistent club for most of their history, people nowadays usually associate them with the football juggernaut they've become at the turn of the century; not much of a surprise, considering the club won the majority of their silverware in that period. Chelsea have won League titles, FA Cups and League Cups. They've also found success in Europe, becoming the only British club to win all three major UEFA trophies: the Cup Winners' Cup, the Champions League and the Europa League.",
+        "foundedYear": "1905",
+        "nickname": "The Blues",
+        "currentManager": "Thomas Tuchel",
+        "tiltes": [{
+            "leagueTitles": "6",
+            "faCups": "8",
+            "leagueCups": "5",
+            "uefaChampionLeague": "2",
+            "uefaEuropaLeague": "2",
+            "uefaCupWinnersCup": "2",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "105",
+        "teamName": "Manchester City F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",
+        "description": "Much like their Mancunian rivals, Manchester City have seen many highs during their colorful existence. With First Division/Premier League titles, FA Cups, League Cups and one Cup Winners' Cup, City stand tall as one of the most successful English football clubs of all time. Still, their history contains more than enough lows to even it up; for example, City are still the only English champions to be relegated the very next season.",
+        "foundedYear": "1880",
+        "nickname": "Cityzens",
+        "currentManager": "Pep Guardiola",
+        "tiltes": [{
+            "leagueTitles": "4",
+            "faCups": "6",
+            "leagueCups": "6",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "106",
+        "teamName": "Tottenham Hotspur F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/800px-Tottenham_Hotspur.svg.png",
+        "description": "uring their colorful lifespan, Tottenham Hotspur were mostly known as cup specialists. They made history by becoming the first British team to win a European trophy, as well as winning the first UEFA Cup ever organized. Overall, their trophy room contains eight FA Cups, four League Cups, one Cup Winners' Cup and two UEFA Cups. In addition to their long tradition of cup success, the Spurs can also boast with two League titles in 1951 and 1961.",
+        "foundedYear": "1882",
+        "nickname": "The Lilywhites",
+        "currentManager": "Antonio Conte",
+        "tiltes": [{
+            "leagueTitles": "2",
+            "faCups": "8",
+            "leagueCups": "4",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "107",
+        "teamName": "Aston Villa F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/800px-Aston_Villa_FC_crest_%282016%29.svg.png",
+        "description": "If we're talking about historical relevance, there are not many clubs in the world that can compete with Aston Villa. In addition to being one of the oldest football clubs in Britain, Villa are the originators of the Football League – the top flight in the country until the Premier League was formed in 1992. In its early history, Villa was one of the most consistent sides in English football, winning several First Division, FA Cup and League Cup titles. They are also one of only five English clubs to have won the European Cup/Champions League title.",
+        "foundedYear": "1874",
+        "nickname": "The Villans",
+        "currentManager": "Steven Gerrad",
+        "tiltes": [{
+            "leagueTitles": "7",
+            "faCups": "7",
+            "leagueCups": "5",
+            "uefaChampionLeague": "1",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "108",
+        "teamName": "West Ham United F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/800px-West_Ham_United_FC_logo.svg.png",
+        "description": "With their attractive style of play, claret and blue jerseys and a catchy anthem, West Ham United are certainly a unique beast in the football world. They have a reputation of cup specialists, in addition to winning a Cup Winners' Cup in 1965, they have also claimed three FA Cup trophies. Since the early 50s, the club has been known as The Academy of Football, with many young and talented players coming through their ranks.",
+        "foundedYear": "1895",
+        "nickname": "The Hammers",
+        "currentManager": "David Moyes",
+        "tiltes": [{
+            "leagueTitles": "0",
+            "faCups": "3",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "1",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "109",
+        "teamName": "Leeds United F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/800px-Leeds_United_F.C._logo.svg.png",
+        "description": "Leeds United might be one of the most opinion-splitting clubs in the world. Their own supporters are ready to follow the club anywhere, which is easily evidenced by the fact that Leeds have the among the highest average attendance in the country, despite spending a lot of their time in the lower divisions of English football. On the other hand, their numerous rivalries with other clubs and a problematic off-the-field reputation have eventually made Leeds the most hated club in England. During their lifespan, Leeds have won three First Division titles, one FA Cup and one League Cup.",
+        "foundedYear": "1919",
+        "nickname": "The Whites",
+        "currentManager": "Marcelo Bielsa",
+        "tiltes": [{
+            "leagueTitles": "3",
+            "faCups": "1",
+            "leagueCups": "1",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "110",
+        "teamName": "Everton F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/800px-Everton_FC_logo.svg.png",
+        "description": "Even for a club based in the Cradle of Football, Everton's history is startling. In their 138 years of existence, they have spent only four years outside the top flight of English football. During this time, they have won nine League titles, five FA Cups and the 1985 Cup Winners' Cup. Since 1892, the club has been playing its home games at Goodison Park, the first major football stadium in England.",
+        "foundedYear": "1919",
+        "nickname": "The Whites",
+        "currentManager": "Marcelo Bielsa",
+        "tiltes": [{
+            "leagueTitles": "9",
+            "faCups": "5",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "1",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "111",
+        "teamName": "Leicester City F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/800px-Leicester_City_crest.svg.png",
+        "description": "While Leicester City does not have as colorful a history as some of their Midlands rivals, the club can boast of spending only a single season outside the top two divisions of English football. They have won several Second Division titles and three League Cups, and being responsible for finishing first in the Premier League against all odds in 2016. Leicester is known for their long-standing rivalry with Nottingham Forest, a feature usually referred to as the East Midlands derby. In the club's past, two of England’s most legendary goalkeepers, Gordon Banks and Peter Shilton, have been protecting the net.",
+        "foundedYear": "1884",
+        "nickname": "The Foxes",
+        "currentManager": "Brendan Rodgers",
+        "tiltes": [{
+            "leagueTitles": "1",
+            "faCups": "1",
+            "leagueCups": "3",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "112",
+        "teamName": "Brighton & Hove Albion F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/800px-Brighton_%26_Hove_Albion_logo.svg.png",
+        "description": "English football club Brighton & Hove Albion became a member of the Football League in 1920. A 13th place in Division 1 in 1982 is so far the best result. They reached the FA Cup final in 1983 and lost against Manchester United.",
+        "foundedYear": "1901",
+        "nickname": "The Seagulls",
+        "currentManager": "Graham Potter",
+        "tiltes": [{
+            "leagueTitles": "0",
+            "faCups": "0",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "113",
+        "teamName": "Burnley F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/800px-Burnley_F.C._Logo.svg.png",
+        "description": "Burnley Football Club has been a member of the Football League since its foundation in 1888. Over the years the club has won two league titles (1921 and 1960) plus the FA Cup title once (1914). Some of the biggest profiles in the history of the club are Jerry Dawson, Tom Boyle, Bob Kelly, Jimmy Adamson, Jimmy Mcllroy and John Connelly.",
+        "foundedYear": "1901",
+        "nickname": "The Clarets",
+        "currentManager": "Sean Dyche",
+        "tiltes": [{
+            "leagueTitles": "2",
+            "faCups": "1",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "114",
+        "teamName": "Crystal Palace F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Crystal_Palace_FC_logo.svg/800px-Crystal_Palace_FC_logo.svg.png",
+        "description": "Crystal Palace FC become a member of the Football League in 1920, after 15 years in the Southern League. They reached the Division One for the first time in 1969 and the best position was achieved in 1991 with a third place. They have reached the FA Cup final two times without winning it. In the 2000s the club was going through a lot of economical struggles and several owner shifts have occurred.",
+        "foundedYear": "1905",
+        "nickname": "The Eagles",
+        "currentManager": "Patrick Vieira",
+        "tiltes": [{
+            "leagueTitles": "0",
+            "faCups": "0",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "115",
+        "teamName": "Newcastle United F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/800px-Newcastle_United_Logo.svg.png",
+        "description": "If you like clubs with tradition, Newcastle United has it in spades. Since their foundation in 1892, they have won four League titles and six FA Cups, which makes them one of the most successful English club of all time. In addition to that, they have spent an impressive numbers of seasons in the top-flight. Their long-standing rivalry with Sunderland, colloquially known as the Tyne-Wear derby, is one of the fiercest local derbies in English football.",
+        "foundedYear": "1892",
+        "nickname": "The Magpies",
+        "currentManager": "Eddie Howe",
+        "tiltes": [{
+            "leagueTitles": "4",
+            "faCups": "6",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "116",
+        "teamName": "Norwich City F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Norwich_City.svg/800px-Norwich_City.svg.png",
+        "description": "Norwich City FC is a three time FA Cup semi-finalists and have won the Football League Cup two times (1962 and 1985). Among the most prominent players that have played in the club Ron Ashman, Graham Paddon, David Cross and Martin Peters could be mentioned. The club has also the famous nickname The Canaries Yellows.",
+        "foundedYear": "1902",
+        "nickname": "The Canaries",
+        "currentManager": "Dean Smith",
+        "tiltes": [{
+            "leagueTitles": "0",
+            "faCups": "0",
+            "leagueCups": "2",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "117",
+        "teamName": "Southampton F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/800px-FC_Southampton.svg.png",
+        "description": "Considering they have spent the majority of their recent history in the top-flight, it might be a little surprising that Southampton Football Club only have a single major honor to their name – the 1976 FA Cup. Nonetheless, their colorful tradition and the number of great players who wore their shirts make Southampton a household name of English football. The club's youth academy is renowned for consistently producing top talent and affording them the maximum opportunity for growth.",
+        "foundedYear": "1885",
+        "nickname": "The Saints",
+        "currentManager": "Ralph Hasenhüttl",
+        "tiltes": [{
+            "leagueTitles": "0",
+            "faCups": "1",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "118",
+        "teamName": "Watford F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/800px-Watford.svg.png",
+        "description": "Watford Football Club played in the Southern league from 1896 to 1920 before becoming a member of the Football League. They didnt reach the first division until 1982 for the first time. The best accomplished result in the top league is a second place in 1983. In the FA Cup, they have as best been runner-up (1984 and 2019).",
+        "foundedYear": "1885",
+        "nickname": "The Hornets",
+        "currentManager": "Roy Hodgson",
+        "tiltes": [{
+            "leagueTitles": "0",
+            "faCups": "0",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "119",
+        "teamName": "Wolverhampton Wanderers F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/800px-Wolverhampton_Wanderers.svg.png",
+        "description": "Wolverhampton Wanderers FC has won the top British league three times: 1954, 1958 and 1959. They have also won the FA Cup four times and the Football League Cup two times. They reach the UEFA Cup final in 1972. Two of the most prominent players are Billy Wright and Bill Slater.",
+        "foundedYear": "1877",
+        "nickname": "The Wanderers",
+        "currentManager": "Bruno Lage",
+        "tiltes": [{
+            "leagueTitles": "3",
+            "faCups": "4",
+            "leagueCups": "2",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }, {
+        "season": "2021-22",
+        "id": "120",
+        "teamName": "Brentford F.C.",
+        "country": "England",
+        "logoImg": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/800px-Brentford_FC_crest.svg.png",
+        "description": "Brentford Football Club is a professional football club based in Brentford, West London, England. They currently compete in the Premier League, the highest tier of English football, having gained promotion via the playoffs at the end of the 2020-21 Championship season. Nicknamed the Bees, the club was founded in 1889 and played home matches at Griffin Park from 1904 before moving to Brentford Community Stadium in 2020. Their main rivals are fellow West London based clubs Fulham and Queens Park Rangers.",
+        "foundedYear": "1889",
+        "nickname": "The Bees",
+        "currentManager": "Thomas Frank",
+        "tiltes": [{
+            "leagueTitles": "0",
+            "faCups": "0",
+            "leagueCups": "0",
+            "uefaChampionLeague": "0",
+            "uefaEuropaLeague": "0",
+            "uefaCupWinnersCup": "0",
+            "uefaSuperCup": "0",
+            "internationalCup": "0",
+            "fifaClubWorldCup": "0"
+        }]
+    }]
+}
